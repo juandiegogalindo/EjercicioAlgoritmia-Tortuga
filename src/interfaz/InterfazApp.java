@@ -34,7 +34,7 @@ public class InterfazApp {
                         System.out.println("1. Subir Lapiz");
                         System.out.println("2. Bajar lapiz");
                         System.out.println("3. Borrador");
-                        System.out.println("4. Guardar y salir");
+                        System.out.println("4. Guardar y salir, FINALIZO EL JUEGO");
                         RespuestaLapiz = sc.nextInt();
                         if (RespuestaLapiz == 4) {
                             System.out.println("Escriba el nombre del archivo: ");
