@@ -1,12 +1,10 @@
-# 🐢 EjercicioAlgoritmia - Tortuga
+# EjercicioAlgoritmia - Tortuga
 
 ## 1. Nombre del Proyecto
 
 **EjercicioAlgoritmia - Tortuga**
 
 Proyecto académico orientado al desarrollo de lógica algorítmica mediante la simulación del movimiento de una “tortuga” virtual, utilizada para representar gráficamente instrucciones de programación en un plano bidimensional.
-
----
 
 ## 2. Características
 
@@ -18,8 +16,6 @@ Este proyecto presenta las siguientes características principales:
 - Enfoque educativo para fortalecer el razonamiento lógico.
 - Organización del proyecto mediante archivos de construcción (`build.xml`).
 - Representación visual o estructural del recorrido generado por el algoritmo.
-
----
 
 ## 3. Instalación
 
